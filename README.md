@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This Project shows detailed steps taken to set up a Honeypot using Microsoft Azure. After setting up TPot we made the virtual machine vulnerable to attackers then we gathered various data and they were analyzed and processed.  
 <br />
 
 
