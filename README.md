@@ -42,8 +42,54 @@ Opening Putty and pasting the Virtual Machine IP on Putty to gain remote Access 
 <img src="https://i.imgur.com/iT4Qc20.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+Logging into putty using the Username and Password created in Azure and updating the OS <br/>
+<img src="https://i.imgur.com/j7bDskk.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br /> 
+Installing Git (Used to install TPot) <br/>
+<img src="https://i.imgur.com/5Kn2BgF.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br />
+Code used to install TPot on the Virtual Machine <br/>
+<img src="https://i.imgur.com/yLKKQ13.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br />
+Setting up username and Password of TPot <br/>
+<img src="https://i.imgur.com/WoTMiaf.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br />
+Installing TPot Dependancies <br/>
+<img src="https://i.imgur.com/C7fwIKt.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br />
+Logging into TPot using the username and password created during the installation of TPot <br/>
+<img src="https://i.imgur.com/eDxunw0.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br />
+TPot interface show <br/>
+<img src="https://i.imgur.com/MyliqMJ.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br />
+Attack Map Interface <br/>
+<img src="https://i.imgur.com/UgH0Kxv.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br /> 
+ElasticVUE Dashboard Interface <br/>
+<img src="https://i.imgur.com/bPstjwo.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br />
+Attckers IP Address and CVE <br/>
+<img src="https://i.imgur.com/3fjbhcb.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br />
+AbuseIPDB <br/>
+<img src="https://i.imgur.com/gyVg3YU.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br />
+Spiderfoot for gathering information <br/>
+<img src="https://i.imgur.com/ZT4RW3m.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+<br />
+<br />
 </p>
 
 <!--
