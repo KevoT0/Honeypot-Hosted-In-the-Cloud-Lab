@@ -18,32 +18,32 @@ This Project consists of a simple PowerShell script that walks the user through 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Brief Diagram of the entire project: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Brief Diagram showing the entire project <br/>
+<img src="https://i.imgur.com/50IBCcy.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating the Virtual Machine  <br/>
+<img src="https://i.imgur.com/pN0vtCR.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Selecting Virtual Machine specification <br/>
+<img src="https://i.imgur.com/2d1XdMM.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Selecting Disk size <br/>
+<img src="https://i.imgur.com/T8oK48r.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Opening all ports to gather traffic  <br/>
+<img src="https://i.imgur.com/atO2mef.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Opening Putty and pasting the Virtual Machine IP on Putty to gain remote Access <br/>
+<img src="https://i.imgur.com/iT4Qc20.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 </p>
 
 <!--
