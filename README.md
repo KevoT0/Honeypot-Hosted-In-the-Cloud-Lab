@@ -42,7 +42,7 @@ Opening Putty and pasting the Virtual Machine IP on Putty to gain remote Access 
 <img src="https://i.imgur.com/iT4Qc20.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Logging into putty using the Username and Password created in Azure and updating the OS <br/>
+Logging into Putty using the Username and Password created in Azure and updating the OS <br/>
 <img src="https://i.imgur.com/j7bDskk.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br /> 
@@ -58,7 +58,7 @@ Setting up username and Password of TPot <br/>
 <img src="https://i.imgur.com/WoTMiaf.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
-Installing TPot Dependancies <br/>
+Installing TPot Dependencies <br/>
 <img src="https://i.imgur.com/C7fwIKt.png" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
 <br />
 <br />
